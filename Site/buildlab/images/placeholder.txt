@@ -1,0 +1,31 @@
+# Imagens Placeholder
+
+Este diretório contém as imagens do site BuildLab.
+
+## Imagens Necessárias
+
+Para o funcionamento completo do site, adicione as seguintes imagens:
+
+- `build1.jpg` - Build Gamer RTX
+- `build2.jpg` - Build Intermédia  
+- `build3.jpg` - Build Económica
+- `build4.jpg` - Build Profissional
+- `placeholder.jpg` - Imagem padrão para builds sem imagem
+- `hero-bg.jpg` - Imagem de fundo da página inicial
+
+## Especificações
+
+- **Formato**: JPG ou PNG
+- **Tamanho recomendado**: 800x600px para builds
+- **Tamanho hero**: 1920x1080px
+- **Qualidade**: Otimizada para web
+
+## Como Adicionar
+
+1. Coloque as imagens neste diretório
+2. Certifique-se de que os nomes correspondem aos definidos no código
+3. As imagens serão automaticamente carregadas pelo site
+
+## Imagens de Exemplo
+
+Pode usar imagens de computadores, setups de gaming, ou componentes de PC como placeholders.
