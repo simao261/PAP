@@ -1,2 +1,17 @@
-# PAP
-Repositório desenvolvido no âmbito da Prova de Aptidão Profissional (PAP), focado na criação de um site e aplicação relacionados com montagem de computadores, comparação de componentes e apoio à comunidade de utilizadores.
+PAP – Simão | Técnico de Informática
+
+Este repositório faz parte do meu projeto de Prova de Aptidão Profissional, onde estou a desenvolver uma plataforma completa dedicada à montagem de computadores e comparação de componentes.
+
+A aplicação inclui:
+
+Sistema de criação e simulação de builds
+
+Comparação detalhada de hardware
+
+Guias práticos para iniciantes
+
+Integração com bases de dados
+
+Área de downloads e interação entre utilizadores
+
+Este projeto representa a consolidação dos conhecimentos adquiridos ao longo do meu percurso formativo na área de Tecnologias de Informação.
